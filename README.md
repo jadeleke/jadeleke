@@ -36,9 +36,6 @@ I am a **DevOps Engineer** with a strong background in **Machine Learning**, **C
 📧 akdeljoseph@outlook.com  
 🖥️ [GitHub](https://github.com/jadeleke)  
 
-## 😄 Pronouns  
-He/Him  
-
 ## ⚡ Fun fact  
 I love **exploring new AI research papers** and **automating repetitive tasks**—whether it’s in **machine learning, cloud infrastructure, or daily workflows!** 🚀  
 
