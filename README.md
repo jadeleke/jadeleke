@@ -51,7 +51,7 @@ I love **exploring new AI research papers** and **automating repetitive tasks**�
 ## 👨‍💻 Experience  
 
 ### **💡 DevOps Engineer**  
-- **(Your current work experience can be added here if needed)**  
+- ** **  
 
 ### **🔧 Application Support Engineer**  
 - Ensured system reliability through rigorous **functional regression testing**, optimizing software performance.  
