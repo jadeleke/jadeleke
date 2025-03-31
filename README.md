@@ -33,7 +33,7 @@ I am a **DevOps Engineer** with a strong background in **Machine Learning**, **C
 
 ## 📫 How to reach me  
 💼 [LinkedIn](https://www.linkedin.com/in/joseph-adeleke-27b433149/)  
-📧 joseph.adeleke@example.com  
+📧 akdeljoseph@outlook.com  
 🖥️ [GitHub](https://github.com/jadeleke)  
 
 ## ⚡ Fun fact  
