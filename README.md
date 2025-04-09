@@ -13,8 +13,8 @@ I am a **DevOps Engineer** with a strong background in **Machine Learning**, **C
 - Improving **AI-driven solutions for accessibility**  
 
 ## 🌱 I’m currently learning  
+- **Advanced Cloud Infrastructure** (Azure, AWS, Kubernetes, CI/CD)  
 - **MLOps** (Deploying ML models efficiently in production)  
-- **Advanced Cloud Infrastructure** (AWS, Kubernetes, CI/CD)  
 - **Federated Learning for Healthcare AI Applications**  
 
 ## 👯 I’m looking to collaborate on  
@@ -27,7 +27,7 @@ I am a **DevOps Engineer** with a strong background in **Machine Learning**, **C
 - Implementing **real-time ASR pipelines using cloud services**  
 
 ## 💬 Ask me about  
-- **Cloud & DevOps** (Azure, AWS, CI/CD, Kubernetes, Docker, Vigrant)  
+- **Cloud & DevOps** (Azure, AWS, CI/CD, Kubernetes, Docker, Vagrant)  
 - **Machine Learning** (NLP, CNNs, Federated Learning)  
 - **Data Engineering** (SQL, NoSQL, Data Pipelines)  
 
@@ -66,8 +66,8 @@ I love **exploring new AI research papers** and **automating repetitive tasks**�
 🧠 **[Brain Tumor Classification using Federated Learning](#)**  
 
 ## ⚙️ **Technical Skills**  
-- **DevOps & Cloud**: AWS, CI/CD Pipelines, Kubernetes, Docker  
-- **Machine Learning & AI**: Deep Learning (wav2vec, Whisper), Transformers  
+- **DevOps & Cloud**: Azure, AWS, CI/CD Pipelines, Kubernetes, Docker  
+- **Machine Learning & AI**: Machine Learning(RNN, CNN, LSTM), Deep Learning (wav2vec, Whisper), Transformers  
 - **Computer Vision**: CNNs, Image Classification  
 - **Monitoring & Automation**: Grafana, Elastic Search, Datadog, Bash Scripting  
 - **Databases & Querying**: SQL, NoSQL  
