@@ -27,8 +27,8 @@ I am a **DevOps Engineer** with a strong background in **Machine Learning**, **C
 - Implementing **real-time ASR pipelines using cloud services**  
 
 ## 💬 Ask me about  
+- **Cloud & DevOps** (Azure, AWS, CI/CD, Kubernetes, Docker, Vigrant)  
 - **Machine Learning** (NLP, CNNs, Federated Learning)  
-- **Cloud & DevOps** (AWS, CI/CD, Kubernetes, Docker)  
 - **Data Engineering** (SQL, NoSQL, Data Pipelines)  
 
 ## 📫 How to reach me  
@@ -69,7 +69,7 @@ I love **exploring new AI research papers** and **automating repetitive tasks**�
 - **DevOps & Cloud**: AWS, CI/CD Pipelines, Kubernetes, Docker  
 - **Machine Learning & AI**: Deep Learning (wav2vec, Whisper), Transformers  
 - **Computer Vision**: CNNs, Image Classification  
-- **Monitoring & Automation**: Grafana, Datadog, Bash Scripting  
+- **Monitoring & Automation**: Grafana, Elastic Search, Datadog, Bash Scripting  
 - **Databases & Querying**: SQL, NoSQL  
 
 _“Turning AI research into impactful real-world solutions.”_  
