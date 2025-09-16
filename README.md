@@ -4,7 +4,7 @@ DevOps, MLOps & Oracle Database Administrator | MSc Computer Science | Machine L
 
 Focused on building reliable, observable ML systems end-to-end: from data and training to deployment and monitoring on Azure/AWS with Kubernetes and CI/CD.
 
-- Current roles: DevOps Engineer · Oracle Database Administrator · MLOps
+- Current roles: DevOps Engineer | Oracle Database Administrator | MLOps
 - Previous role: Application Support Engineer
 
 ---
@@ -96,7 +96,7 @@ flowchart LR
   D --> E[Model Registry]
   E --> F[CI/CD: Build / Test / Scan]
   F --> G[Containerize & Deploy]
-  G --> H[Online Serving (REST/gRPC)]
+  G --> H[Online Serving: REST and gRPC]
   H --> I[Monitoring & Logging]
   I --> J[Drift Detection & Alerts]
   J --> D
