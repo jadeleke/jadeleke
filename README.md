@@ -53,6 +53,11 @@ I'm a DevOps and MLOps engineer with hands-on Oracle database administration exp
 <!-- Icons from skillicons.dev; rendered on GitHub -->
 ![Tech Stack](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,azure,aws,oracle,docker,kubernetes,terraform,ansible,jenkins,azuredevops,githubactions,airflow,grafana,elasticsearch,datadog,bash,linux,vagrant&perline=8)
 
+### Toolbox — Details
+- MLOps: MLflow (tracking/registry), DVC (data/versioning), Prefect/Airflow (orchestration), Kubeflow (pipelines), KServe/Triton (serving), FastAPI (inference APIs)
+- Data: Pandas/Polars, PySpark, Great Expectations (validation)
+- DB Change Mgmt: Liquibase/Flyway (repeatable migrations, drift detection)
+
 ---
 
 ## Experience
@@ -104,21 +109,43 @@ flowchart LR
 
 ---
 
+## GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=jadeleke&theme=gruvbox&no-bg=true&no-frame=true&margin-w=8)
+
+---
+
 ## GitHub Stats
 
-<!-- You can swap the theme by changing 'tokyonight' in the URLs below -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadeleke&show_icons=true&theme=tokyonight)
+<!-- Theme: gruvbox (change by editing 'theme=gruvbox') -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadeleke&show_icons=true&theme=gruvbox)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jadeleke&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jadeleke&layout=compact&theme=gruvbox)
 
-![Streak](https://streak-stats.demolab.com?user=jadeleke&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=jadeleke&theme=gruvbox)
 
 <!-- Profile Summary Cards -->
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jadeleke&theme=tokyonight)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jadeleke&theme=gruvbox)
 
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jadeleke&theme=tokyonight)
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jadeleke&theme=gruvbox)
 
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jadeleke&utcOffset=0&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jadeleke&utcOffset=0&theme=gruvbox)
+
+---
+
+## Pinned Repos
+
+<!-- Replace 'repo=' with your repository name to pin it -->
+<a href="https://github.com/jadeleke/jadeleke">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jadeleke&repo=jadeleke&theme=gruvbox" />
+  </a>
+
+<!-- Template: duplicate and replace REPO_NAME with your repo -->
+<!--
+<a href="https://github.com/jadeleke/REPO_NAME">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jadeleke&repo=REPO_NAME&theme=gruvbox" />
+</a>
+-->
 
 ---
 
