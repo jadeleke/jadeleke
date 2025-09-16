@@ -1,16 +1,16 @@
 # Joseph Adeleke
-MLOps & DevOps Engineer | MSc Computer Science | Machine Learning Researcher  
+DevOps, MLOps & Oracle Database Administrator | MSc Computer Science | Machine Learning Researcher  
 ![Profile Views](https://komarev.com/ghpvc/?username=jadeleke&color=0e75b6&style=flat)
 
 Focused on building reliable, observable ML systems end-to-end: from data and training to deployment and monitoring on Azure/AWS with Kubernetes and CI/CD.
 
-- Current role: DevOps Engineer
+- Current roles: DevOps Engineer · Oracle Database Administrator · MLOps
 - Previous role: Application Support Engineer
 
 ---
 
 ## About
-I'm a DevOps engineer with a strong background in machine learning. My research and project interests include Automatic Speech Recognition (ASR) for Ghanaian languages, CNN-based computer vision, and accessible AI. I enjoy automating workflows, hardening infrastructure, and productionizing models with robust testing and monitoring.
+I'm a DevOps and MLOps engineer with hands-on Oracle database administration experience. My research and project interests include Automatic Speech Recognition (ASR) for Ghanaian languages, CNN-based computer vision, and accessible AI. I build reliable ML services and cloud-native platforms, automate workflows, and productionize models with testing, security, and observability. On the database side, I focus on performance, resilience, and automation in Oracle environments.
 
 ## What I'm Working On
 - CNN model for image classification in Akan Twi
@@ -24,7 +24,8 @@ I'm a DevOps engineer with a strong background in machine learning. My research 
 
 ## Ask Me About
 - Cloud & DevOps: Azure, AWS, CI/CD, Kubernetes, Docker, Vagrant
-- Machine Learning: NLP, CNNs, federated learning
+- MLOps: pipelines, model packaging/serving, monitoring, drift detection
+- Oracle DBA: RMAN backup/recovery, performance tuning (AWR/ASH), Data Guard
 - Data Engineering: SQL/NoSQL data pipelines and validation
 
 ## Contact
@@ -41,17 +42,31 @@ I'm a DevOps engineer with a strong background in machine learning. My research 
 - Observability: metrics, logs, and tracing with Grafana, Elasticsearch, Datadog
 - Governance: experiment tracking, model comparison, and release discipline
 
+## Database & DataOps Focus
+- Oracle administration: backup/recovery (RMAN), HA/DR (Data Guard), patching
+- Performance: SQL tuning, indexing/partitioning, AWR/ASH analysis
+- Automation: PL/SQL, SQL*Plus, Bash/PowerShell, scheduled jobs
+- Schema change management: repeatable migrations (Liquibase/Flyway)
+- Monitoring: OEM/Cloud Control, Grafana/Prometheus, Datadog alerts
+
 ## Toolbox
 <!-- Icons from skillicons.dev; rendered on GitHub -->
-![Tech Stack](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,azure,aws,docker,kubernetes,githubactions,grafana,elasticsearch,datadog,bash,linux,vagrant&perline=8)
+![Tech Stack](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,azure,aws,oracle,docker,kubernetes,terraform,ansible,jenkins,azuredevops,githubactions,airflow,grafana,elasticsearch,datadog,bash,linux,vagrant&perline=8)
 
 ---
 
 ## Experience
 
-### DevOps Engineer
+### DevOps & MLOps Engineer
 - Focused on CI/CD, containerization, and cloud-native deployments on Azure/AWS
 - Emphasis on reliability, security, and observability for applications and ML services
+
+### Oracle Database Administrator
+- Managed Oracle databases with RMAN backup/recovery and automated maintenance
+- Tuned performance using AWR/ASH, optimized SQL, indexes, and partitioning
+- Implemented HA/DR with Data Guard; coordinated patching and upgrades
+- Automated DBA tasks using PL/SQL, SQL*Plus, Bash/PowerShell
+- Integrated database monitoring with OEM/Cloud Control, Grafana, and Datadog
 
 ### Application Support Engineer
 - Ensured system reliability via functional regression testing and performance tuning
@@ -79,7 +94,7 @@ flowchart LR
   B --> C[Feature Engineering]
   C --> D[Train & Evaluate]
   D --> E[Model Registry]
-  E --> F[CI/CD: Build | Test | Scan]
+  E --> F[CI/CD: Build / Test / Scan]
   F --> G[Containerize & Deploy]
   G --> H[Online Serving (REST/gRPC)]
   H --> I[Monitoring & Logging]
